@@ -1,5 +1,6 @@
 # 💫 About Me:
-Learning Backend webdev using django.
+Hi!, I am Prashanna from Kathmandu, Nepal.
+I am currently learning Backend webdev using Django.
 
 
 ## 🌐 Socials:
