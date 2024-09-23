@@ -20,6 +20,5 @@ I am currently learning Backend webdev using Django.
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SLASH217&icon=3&color=2)](https://visitcount.itsvg.in)
-</div>
+[![](https://visitcount.itsvg.in/api?id=SLASH217&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
