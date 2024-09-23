@@ -1,3 +1,5 @@
+<div align="center">
+
 # 💫 About Me:
 Hi!, I am Prashanna from Kathmandu, Nepal.
 
@@ -19,5 +21,5 @@ I am currently learning Backend webdev using Django.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SLASH217&icon=3&color=2)](https://visitcount.itsvg.in)
-
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
