@@ -17,13 +17,11 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SLASH217&show_icons=true&theme=radical" alt="Prashanna Dahal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SLASH217&show_icons=true&theme=radical&cache_seconds=1800" alt="Prashanna Dahal's GitHub Stats" />
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SLASH217&cache_seconds=1800)
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SLASH217&theme=radical" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SLASH217&theme=radical&cache_seconds=1800" alt="GitHub Profile Summary" />
 </p>
 
 
