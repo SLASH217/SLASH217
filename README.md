@@ -3,7 +3,6 @@
  Hi there, I'm Prashanna Dahal 👋
 - **🌱 Currently Learning**: React.js, Tailwind CSS, Next.js.  
 - **💼 Professionally**: First-year undergraduate student with a knack for blending technology and creativity.  
-- **💬 Ask me about**: Web development, APIs, and hackathon strategies.  
 - **📫 Reach Me At**:  
   - [LinkedIn](https://www.linkedin.com/in/prashanna-dahal-630878303/)  
   - **Email**: prashanna217@gmail.com  
