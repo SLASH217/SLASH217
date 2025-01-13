@@ -1,9 +1,6 @@
-
-# 💫 About Me: Hi there, I'm Prashanna Dahal 👋  
-
----  
-
+---
 ## 🚀 About Me  
+ Hi there, I'm Prashanna Dahal 👋
 - **🌱 Currently Learning**: React.js, Tailwind CSS, Next.js.  
 - **💼 Professionally**: First-year undergraduate student with a knack for blending technology and creativity.  
 - **💬 Ask me about**: Web development, APIs, and hackathon strategies.  
