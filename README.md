@@ -5,9 +5,6 @@ Hi!
 
 I am Prashanna from Kathmandu, Nepal.
 
-I am currently learning Backend webdev using Django.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prashanna-dahal-630878303/) 
 
@@ -18,9 +15,72 @@ I am currently learning Backend webdev using Django.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SLASH217&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SLASH217&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+# Hi there, I'm Blaze (Prashanna Dahal) 👋
+
+Welcome to my GitHub profile! I'm an aspiring developer with a passion for creating innovative solutions to real-world problems. I specialize in web development, data handling, and algorithm design. Here's a little about me and what I do:
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SLASH217&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
+
+## 🚀 About Me
+- **🌱 Currently Learning**: React.js, Tailwind CSS, Next.js, and WebRTC.
+- **💼 Professionally**: First-year undergraduate student with a knack for blending technology and creativity.
+- **💬 Ask me about**: Web development, APIs, and hackathon strategies.
+- **📫 Reach Me At**:
+  - [LinkedIn](https://www.linkedin.com/in/prashanna-dahal-630878303/)
+  - Email: prashanna217@gmail.com
+  - Phone: +977 9803760667
+
+---
+
+## 🌟 My Projects
+
+### 1. **YouTube Playlist Manager** 🎥
+   - **Overview**: A tool to streamline adding songs to a playlist using the YouTube Data API and get playlist statistics.
+   - **Features**:
+     - Add videos seamlessly.
+     - Get Statistics on your playlist example: weeknd was the most common singer in my playlist.
+   - **Tech Stack**: Python, YouTube Data API, HTML, CSS , Pandas, Matplotlib.
+
+### 2. **IPO Alert Project** 📈
+   - **Overview**: Fetches IPO details from Sharesansar.com and sends email alerts when new IPOs are released.
+   - **Features**:
+     - Automates IPO tracking and notifications.
+     - Provides timely updates to users.
+   - **Tech Stack**: Python, Requests module, BeautifulSoup, Email Automation, Task schedular.
+
+### 3. **Hackocalypse - Code the Comeback** ⚡
+   - **Theme**: Post-apocalyptic survival.
+   - **Project**: A program to detect monsters and make annoucements accordingly.
+   - **Features**:
+     - Local communication using admin announcements.
+     - Using python and react to access monster locations and display on website.
+   - **Tech Stack**: HTML, CSS, JavaScript, Python.
+
+---
+
+## 🛠️ Technologies & Tools
+- **Languages**: Python, JavaScript, HTML, CSS, SQL.
+- **Frameworks & Libraries**: Django, React (learning), Node js.
+- **Tools**: Git, GitHub, Thunderclient.
+
+---
+
+## 📊 GitHub Stats
+![Blaze's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SLASH217&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SLASH217&layout=compact&theme=radical)
+
+---
+
+## ✨ Fun Facts
+- **My Personality Type**: ENTJ - The Commander.
+- **Hackathon Enthusiast**: Always ready to brainstorm innovative ideas under tight deadlines.
+- **Hobbies**: Exploring AI, playing strategy games, and creating meaningful side projects.
+
+---
+
+Thanks for stopping by! Feel free to connect, collaborate, or just say hi. Let's build something amazing together! 🚀
+
+
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
