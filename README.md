@@ -1,7 +1,7 @@
 
 ## 🚀 About Me  
  Hi there, I'm Prashanna Dahal 👋
-- **🌱 Currently Learning**: React.js, Tailwind CSS, Next.js.  
+- **🌱 Currently Learning**: React.js, Tailwind CSS, node.js.  
 - **💼 Professionally**: First-year undergraduate student with a knack for blending technology and creativity.  
 - **📫 Reach Me At**:  
   - [LinkedIn](https://www.linkedin.com/in/prashanna-dahal-630878303/)  
@@ -57,7 +57,7 @@
 
 ## 🛠️ Technologies & Tools  
 - **Languages**: Python, JavaScript, HTML, CSS, SQL.  
-- **Frameworks & Libraries**: Django, React (learning), Node.js.  
+- **Frameworks & Libraries**: Django, React (learning), Node.js(learning).  
 - **Tools**: Git, GitHub, Thunderclient.  
 
 ---  
@@ -66,7 +66,7 @@
 ## ✨ Fun Facts  
 - **My Personality Type**: ENTJ - The Commander.  
 - **Hackathon Enthusiast**: Always ready to brainstorm innovative ideas under tight deadlines.  
-- **Hobbies**: Exploring AI, playing strategy games, and creating meaningful side projects.  
+- **Hobbies**: Exploring AI, playing strategy games, and creating meaningful side projects. 
 
 ---
 
