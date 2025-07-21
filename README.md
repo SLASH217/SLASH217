@@ -1,74 +1,79 @@
+<!-- Profile README for Prashanna Dahal (SLASH217) -->
 
-## 🚀 About Me  
- Hi there, I'm Prashanna Dahal 👋
-- **🌱 Currently Learning**: React.js, Tailwind CSS, node.js.  
-- **💼 Professionally**: First-year undergraduate student with a knack for blending technology and creativity.  
-- **📫 Reach Me At**:  
-  - [LinkedIn](https://www.linkedin.com/in/prashanna-dahal-630878303/)  
-  - **Email**: prashanna217@gmail.com  
-  - **Phone**: +977 9803760667  
-
----  
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-# 📊 GitHub Stats:
+<h1 align="center">Hi, I'm Prashanna Dahal 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SLASH217&show_icons=true&theme=radical&cache_seconds=1800" alt="Prashanna Dahal's GitHub Stats" />
+  <b>First-year undergraduate</b> blending tech & creativity.<br>
+  <i>Always learning, always building.</i>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SLASH217&theme=radical&cache_seconds=1800" alt="GitHub Profile Summary" />
-</p>
-
-
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/not_prashanna) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prashanna-dahal-630878303/) 
-
-## 🌟 My Projects  
-
-### 1. **YouTube Playlist Manager** 🎥  
-- **Overview**: A tool to streamline adding songs to a playlist using the YouTube Data API and get playlist statistics.  
-- **Features**:  
-  - Add videos seamlessly.  
-  - Get statistics on your playlist (e.g., Weeknd was the most common singer in my playlist).  
-- **Tech Stack**: Python, YouTube Data API, HTML, CSS, Pandas, Matplotlib.  
-
-### 2. **IPO Alert Project** 📈  
-- **Overview**: Fetches IPO details from Sharesansar.com and sends email alerts when new IPOs are released.  
-- **Features**:  
-  - Automates IPO tracking and notifications.  
-  - Provides timely updates to users.  
-- **Tech Stack**: Python, Requests module, BeautifulSoup, Email Automation, Task Scheduler.  
-
-### 3. **Hackocalypse - Code the Comeback** ⚡  
-- **Theme**: Post-apocalyptic survival.  
-- **Project**: A program to detect monsters and make announcements accordingly.  
-- **Features**:  
-  - Local communication using admin announcements.  
-  - Access monster locations and display them on a website using Python and React.  
-- **Tech Stack**: HTML, CSS, JavaScript, Python.  
-
----  
-
-## 🛠️ Technologies & Tools  
-- **Languages**: Python, JavaScript, HTML, CSS, SQL.  
-- **Frameworks & Libraries**: Django, React (learning), Node.js(learning).  
-- **Tools**: Git, GitHub, Thunderclient.  
-
----  
-
-
-## ✨ Fun Facts  
-- **My Personality Type**: ENTJ - The Commander.  
-- **Hackathon Enthusiast**: Always ready to brainstorm innovative ideas under tight deadlines.  
-- **Hobbies**: Exploring AI, playing strategy games, and creating meaningful side projects. 
 
 ---
 
+## 🚀 About Me  
+- 🌱 Currently learning: <b>React.js</b>, <b>Tailwind CSS</b>, <b>Node.js</b>
+- 💼 Professionally: <i>Student, hackathon enthusiast, and tech explorer</i>
+- 📫 Reach me: 
+  - <a href="https://www.linkedin.com/in/prashanna-dahal-630878303/">LinkedIn</a>  
+  - <b>Email:</b> prashanna217@gmail.com  
+  - <b>Phone:</b> +977 9803760667  
+
+---
+
+## 💻 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <!-- Add/Remove as needed -->
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SLASH217&show_icons=true&theme=radical" height="160"/>
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SLASH217&theme=radical" height="160"/>
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🎥 YouTube Playlist Manager  
+- Tool to streamline adding songs to playlists and get cool playlist stats.  
+- <b>Tech:</b> Python, YouTube Data API, Pandas, Matplotlib
+
+### 📈 IPO Alert Project  
+- Fetches IPO info & sends email alerts for new IPOs from Sharesansar.com  
+- <b>Tech:</b> Python, BeautifulSoup, Email Automation
+
+### ⚡ Hackocalypse - Code the Comeback  
+- Post-apocalyptic themed project: detects monsters, live admin announcements, and web monster map  
+- <b>Tech:</b> Python, React, HTML, CSS, JavaScript
+
+---
+
+## 🛠️ More Technologies & Tools
+- <b>Languages:</b> Python, JavaScript, HTML, CSS, SQL
+- <b>Frameworks:</b> Django, React (learning), Node.js (learning)
+- <b>Tools:</b> Git, GitHub, Thunderclient
+
+---
+
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/not_prashanna)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanna-dahal-630878303/)
+
+---
+
+## ✨ Fun Facts
+- <b>Personality Type:</b> ENTJ - The Commander
+- <b>Hackathon Fan:</b> Love brainstorming under pressure!
+- <b>Hobbies:</b> Exploring AI, playing strategy games, building side projects
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
