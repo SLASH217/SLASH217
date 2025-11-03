@@ -10,8 +10,7 @@
 ---
 
 ## 🚀 About Me  
-- 🌱 Currently learning: <b>React.js</b>, <b>Tailwind CSS</b>, <b>Node.js</b>
-- 💼 Professionally: <i>Student, hackathon enthusiast, and tech explorer</i>
+- 🌱 Currently learning: <b>React.js</b>, <b>Tailwind CSS</b
 - 📫 Reach me: 
   - <a href="https://www.linkedin.com/in/prashanna-dahal-630878303/">LinkedIn</a>  
   - <b>Email:</b> prashanna217@gmail.com  
@@ -49,16 +48,12 @@
 ### 📈 IPO Alert Project  
 - Fetches IPO info & sends email alerts for new IPOs from Sharesansar.com  
 - <b>Tech:</b> Python, BeautifulSoup, Email Automation
-
-### ⚡ Hackocalypse - Code the Comeback  
-- Post-apocalyptic themed project: detects monsters, live admin announcements, and web monster map  
-- <b>Tech:</b> Python, React, HTML, CSS, JavaScript
-
+- 
 ---
 
 ## 🛠️ More Technologies & Tools
 - <b>Languages:</b> Python, JavaScript, HTML, CSS, SQL
-- <b>Frameworks:</b> Django, React (learning), Node.js (learning)
+- <b>Frameworks:</b> Django, React (learning)
 - <b>Tools:</b> Git, GitHub, Thunderclient
 
 ---
@@ -66,13 +61,6 @@
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/not_prashanna)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanna-dahal-630878303/)
-
----
-
-## ✨ Fun Facts
-- <b>Personality Type:</b> ENTJ - The Commander
-- <b>Hackathon Fan:</b> Love brainstorming under pressure!
-- <b>Hobbies:</b> Exploring AI, playing strategy games, building side projects
 
 ---
 
