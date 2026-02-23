@@ -3,15 +3,13 @@
 <h1 align="center">Hi, I'm Prashanna Dahal 👋</h1>
 
 <p align="center">
-  <b>First-year undergraduate</b> blending tech & creativity.<br>
+  <b>Second-Year undergraduate</b> blending tech & creativity.<br>
   <i>Always learning, always building.</i>
 </p>
 
 ---
 
-## 🚀 About Me  
-- 🌱 Currently learning: <b>React.js</b>, <b>Tailwind CSS</b
-- 📫 Reach me: 
+## 📫 Reach me: 
   - <a href="https://www.linkedin.com/in/prashanna-dahal-630878303/">LinkedIn</a>  
   - <b>Email:</b> prashanna217@gmail.com  
   - <b>Phone:</b> +977 9803760667  
@@ -36,26 +34,6 @@
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SLASH217&theme=radical" height="160"/>
 </p>
-
----
-
-## 🌟 Featured Projects
-
-### 🎥 YouTube Playlist Manager  
-- Tool to streamline adding songs to playlists and get cool playlist stats.  
-- <b>Tech:</b> Python, YouTube Data API, Pandas, Matplotlib
-
-### 📈 IPO Alert Project  
-- Fetches IPO info & sends email alerts for new IPOs from Sharesansar.com  
-- <b>Tech:</b> Python, BeautifulSoup, Email Automation
-- 
----
-
-## 🛠️ More Technologies & Tools
-- <b>Languages:</b> Python, JavaScript, HTML, CSS, SQL
-- <b>Frameworks:</b> Django, React (learning)
-- <b>Tools:</b> Git, GitHub, Thunderclient
-
 ---
 
 ## 🌐 Socials
